@@ -1,4 +1,4 @@
-# Mojo Memory Whisper
+# MeMojo
 
 A personalized AI-powered daily feed that curates content based on your preferences, interests, and mood. This application uses OpenAI's GPT and DALL-E models to generate unique, tailored content for each user.
 
@@ -161,23 +161,7 @@ OPENAI_API_KEY=your_api_key_here
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- OpenAI for providing the GPT and DALL-E APIs
-- The Next.js team for the amazing framework
-- All contributors who have helped shape this project
-
-## 📞 Support
-
-For support, email support@mojomemorywhisper.com or open an issue in the repository.
-
-## 🔄 Updates
-
-Stay tuned for upcoming features:
 
 - User authentication
 - Content sharing
